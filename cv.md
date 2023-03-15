@@ -23,3 +23,24 @@ I have a higher education in economics. I have been working in the banking syste
 - Figma
 - VS Code
 - Bootstrap
+
+### **Code example**
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+### **Education**
+
+- Belarusian State Economic University, Faculty of Banking 2011-2015
+- TeachMeSkills (in progress)
+
+### **Languages**
+
+1.Belarusian - Native
+
+2.Russian - Native
+
+3.English - А2
