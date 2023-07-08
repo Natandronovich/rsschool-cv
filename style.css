@@ -114,9 +114,9 @@ html {
 .section-profile {
     display: flex;
     justify-content: space-around;
-    width: 100%;
-    padding: 50px 30px 35px;
+    padding: 30px 20px 35px;
     border-bottom: 10px solid #8299853f;
+    width: 100%;
 }
 
 .section-profile-foto{
@@ -124,7 +124,7 @@ html {
     height: 210px;
     object-fit: cover;
     border-radius: 50%;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
 }
 
 .section-profile-title {
@@ -164,8 +164,6 @@ html {
 .pre-code{
     display: flex;
     justify-content: flex-end;
-    /* padding: 0;
-    margin: 0; */
 }
 
 .footer{
