@@ -2,6 +2,8 @@
 
 ## **Natallia Andronovich**
 
+![Avatar](https://e7.pngegg.com/pngimages/98/559/png-clipart-computer-icons-girl-woman-thinking-woman-microphone-child.png)
+
 ### **Junior frontend developer**
 
 ### **Contacts**
