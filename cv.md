@@ -36,6 +36,7 @@ function multiply(a, b) {
 
 - Belarusian State Economic University, Faculty of Banking 2011-2015
 - TeachMeSkills (in progress)
+- RS School (in progress)
 
 ### **Languages**
 
